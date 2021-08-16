@@ -1223,3 +1223,11 @@ i.home-product-item__like-icon-fill {
     line-height: 1.3rem;
     font-weight: 600;
 }
+
+.home-product__pagination {
+    margin: 48px 0 32px;
+}
+
+
+/* Footer */
+.footer {}
